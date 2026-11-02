@@ -1,6 +1,6 @@
 # CoreBoot_Anonym-HW_FW
 
-If You are independent {journalist, researcher, scientist, engineer} whose anonymity is necessary
+If You Are InDependent {Journalist, ReSearcher, Scientist, Engineer} Whose Anonymity Is Necessary
 
 .
 
@@ -21,6 +21,8 @@ A: {
   0: "You will Get Full Copy Of This Project";
 
   1: "You Will Get Instructions How To Be Anonymous";
+
+  2: "And MayBe PreCompilled Device FW File & Instructions How To Flash It"; 
 
 };
 
