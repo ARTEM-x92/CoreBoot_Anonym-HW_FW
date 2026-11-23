@@ -1,0 +1,149 @@
+# What is a Vendor Prefix ? Its a First 3 Hex Values (Example0: "0F:0F:0F" Only Vendor Prefix, Example1: "0F:0F:0F:F0:F0:F0:" Full MAC)
+#
+# For Example Here is Lenovo Vendor MAC Prefix
+# 10:C5:95
+# 80:96:21
+# A4:11:94
+# A4:8C:DB
+#
+# By Default Lib_Gen_MAC.c Generates a (Random) MAC Address (On Every Boot, Not a ReBoot)
+# But You Can Select On Firmware Setup Menu or PreConfigure Vendor Prefix 
+# Avalible 3(4) Options,
+# 0: Take / Generate Random MAC Vendor Prefix
+# 1: Take A HW Based MAC Vendor Prefix, Based on CoreBoot MainBoard Vendor Name Configuration (MAINBOARD_VENDOR)
+# 2: Manually Select a MAC Vendor Prefix
+# 3: Manually Enter a MAC Vendor Prefix
+
+# Beggin Vendors MAC Prefix List
+# 00
+#00:00:00
+
+
+# 51NB
+
+# Acer
+
+# AMD
+
+# AOOSTAR
+
+# AOpen
+
+# Apple
+
+# ARM
+
+# ASRock
+
+# ASUS
+
+# Biostar
+
+# Bostentech (Shenzhen Bostrontium Teng Technology)
+
+# ByteDance
+
+# Cavium
+
+# Clevo
+
+# CompuLab
+
+# CWWK
+
+# Dell Inc.
+
+# Erying
+
+# Facebook
+
+# Foxconn
+
+# Framework
+
+# Getac
+
+# GIGABYTE
+
+# Google
+
+# Hardkernel
+
+# HP
+
+# iBase
+
+# IBM
+
+# Intel
+
+# Inventec
+
+# Kontron
+
+# LattePanda
+
+# Lenovo
+
+# Libretrend
+
+# MiTAC Computing
+
+# MSI
+
+# NovaCustom
+
+# NVIDIA
+
+# Open Compute Project
+
+# OpenCellular
+
+# Packard Bell
+
+# PC Engines
+
+# Pine64
+
+# Portwell
+
+# Prodrive
+
+# Protectli
+
+# Purism
+
+# Qotom
+
+# Raptor Computing Systems
+
+# RAZER
+
+# Roda
+
+# SAMSUNG
+
+# Sapphire
+
+# Siemens
+
+# SiFive
+
+# Star Labs
+
+# Supermicro
+
+# System76
+
+# TI
+
+# Topton
+
+# UP
+
+# VIA
+
+
+
+# FF
+#FF:FF:FF
